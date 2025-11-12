@@ -1,7 +1,10 @@
 # Git and GitHub Refreshing Notes
-    - [Link local project to github repository](#link-local-project-to-a-github-repository)
-    - [Check the linked github repo from local directory](#check-the-github-repo-that-links-to-the-project) 
-    - [git workflow (basic) - updating](#git-workflow) 
+
+1. [Link local project to github repository](#link-local-project-to-a-github-repository)
+    
+2. Check the linked github repo from local directory
+    
+3. git workflow (basic) - updating
 
 
 # Link local project to a github repository 
