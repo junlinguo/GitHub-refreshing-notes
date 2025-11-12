@@ -2,9 +2,9 @@
 
 1. [Link local project to github repository](#link-local-project-to-a-github-repository)
     
-2. Check the linked github repo from local directory
+2. [Check the linked github repo from local directory](#check-the-github-repo-that-links-to-the-project)
     
-3. git workflow (basic) - updating
+3. [git workflow (basic) - updating](#git-workflow)
 
 
 # Link local project to a github repository 
